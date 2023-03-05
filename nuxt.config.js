@@ -46,9 +46,9 @@ export default {
     customVariables: ['~/assets/variables.scss'],
     theme: {
       themes: {
-          primary: '#023047',
+          primary:'#FFB703',
           accent: colors.grey.darken3,
-          secondary: '#FFB703',
+          secondary: '#023047',
           info: colors.teal.lighten1,
           warning: colors.amber.base,
           error: colors.deepOrange.accent4,
