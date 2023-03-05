@@ -8,7 +8,7 @@
     <v-footer>
       <v-container fluid>
       <v-row align="center" justify="space-between">
-         <v-col cols="3">
+         <v-col cols="12" md="3">
           <v-card
       class="mx-auto"
       tile
@@ -27,7 +27,7 @@
       </v-list-item>
     </v-card>
          </v-col>
-          <v-col cols="auto">
+          <v-col cols="auto" md="auto">
           <v-card
       class="mx-auto"
       tile
@@ -43,7 +43,7 @@
       </v-list-item>
     </v-card>
          </v-col>
-           <v-col cols="auto">
+           <v-col  cols="12" md="auto">
           <v-card
       class="mx-auto"
       tile
