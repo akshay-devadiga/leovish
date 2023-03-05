@@ -1,16 +1,12 @@
 <template>
   <v-app>
-    <v-main class="primary secondary--text">
+    <v-main>
       <v-container fluid>
         <Nuxt />
       </v-container>
     </v-main>
-    <v-footer
-      :absolute="!fixed"
-      app
-      class="primary white--text"
-    >
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+    <v-footer>
+      <span>&copy;Leovish interiors & constructions {{ new Date().getFullYear() }}</span>
     </v-footer>
   </v-app>
 </template>

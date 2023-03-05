@@ -4,6 +4,7 @@
     <v-card
       class="mx-auto py-6"
       max-width="774"
+      flat
     >
       <v-img
         contain
